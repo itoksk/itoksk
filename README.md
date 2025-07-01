@@ -7,20 +7,32 @@
 
 ## 🔧 Stack
 
-![Claude](https://img.shields.io/badge/Claude-FF6B35?style=flat-square) 
-![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=flat-square)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square)
-![Google AI Studio](https://img.shields.io/badge/Google_AI_Studio-4285F4?style=flat-square)
-![GAS](https://img.shields.io/badge/GAS-4285F4?style=flat-square)
-![AppSheet](https://img.shields.io/badge/AppSheet-34A853?style=flat-square)
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square)
-![Dify](https://img.shields.io/badge/Dify-6366F1?style=flat-square)
-![Make](https://img.shields.io/badge/Make-7B68EE?style=flat-square)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square)
-![Midjourney](https://img.shields.io/badge/Midjourney-000000?style=flat-square)
-![Suno](https://img.shields.io/badge/Suno-FF6B6B?style=flat-square)
-![Genspark](https://img.shields.io/badge/Genspark-FF8C00?style=flat-square)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square)
+### 🤖 AI & ML
+![Claude](https://img.shields.io/badge/Claude-FF6B35?style=for-the-badge&logo=anthropic&logoColor=white) 
+![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Gemini CLI](https://img.shields.io/badge/Gemini_CLI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Google AI Studio](https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+### ⚡ Development Environment
+![Claude Code](https://img.shields.io/badge/Claude_Code-FF6B35?style=for-the-badge&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logoColor=white)
+![GAS](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+### 🔧 Automation & Apps
+![AppSheet](https://img.shields.io/badge/AppSheet-34A853?style=for-the-badge&logo=google&logoColor=white)
+![Dify](https://img.shields.io/badge/Dify-6366F1?style=for-the-badge&logoColor=white)
+![Make](https://img.shields.io/badge/Make-7B68EE?style=for-the-badge&logoColor=white)
+
+### 📊 Data & Cloud
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+
+### 🎨 Creative Tools
+![Midjourney](https://img.shields.io/badge/Midjourney-000000?style=for-the-badge&logoColor=white)
+![Suno](https://img.shields.io/badge/Suno-FF6B6B?style=for-the-badge&logoColor=white)
+![Genspark](https://img.shields.io/badge/Genspark-FF8C00?style=for-the-badge&logoColor=white)
 
 ---
 
