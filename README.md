@@ -26,7 +26,6 @@
 
 ## 📚 Content
 
-📖 ChatGPT活用プロンプト集 2冊出版  
-[![Note](https://img.shields.io/badge/note-00C851?style=flat-square)](https://note.com/tyaperujp01/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square)](https://www.youtube.com/@ictch)
+📖 [**教師のための ChatGPT だけに使えるプロンプト：授業・校務の大革命!**](https://www.amazon.co.jp/dp/B0D48N5HR6)  
+📖 [**教師のための ChatGPT ホントに使えるプロンプト2 カスタムインストラクション編**](https://www.amazon.co.jp/dp/B0DJ16GQD4)
 
