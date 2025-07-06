@@ -41,8 +41,8 @@
 📖 [**教師のための ChatGPT だけに使えるプロンプト：授業・校務の大革命!**](https://www.amazon.co.jp/dp/B0D48N5HR6)  
 📖 [**教師のための ChatGPT ホントに使えるプロンプト2 カスタムインストラクション編**](https://www.amazon.co.jp/dp/B0DJ16GQD4)
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34C26?style=flat&logo=HTML5&logoColor=white)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=itoksk&show_icons=true)
+
+
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=itoksk)
