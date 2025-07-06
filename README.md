@@ -41,3 +41,4 @@
 📖 [**教師のための ChatGPT だけに使えるプロンプト：授業・校務の大革命!**](https://www.amazon.co.jp/dp/B0D48N5HR6)  
 📖 [**教師のための ChatGPT ホントに使えるプロンプト2 カスタムインストラクション編**](https://www.amazon.co.jp/dp/B0DJ16GQD4)
 
+![Visitor Count](https://komarev.com/ghpvc/?username=itoksk)
